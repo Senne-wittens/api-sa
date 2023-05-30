@@ -3,7 +3,8 @@
       "version": "1.0.0",
       "description": "",
       "scripts": {
-          "start": "node index.js"
+          "build": "javac src ",
+          "start": "java src "
       },
       "repository": {
           "type": "git",
